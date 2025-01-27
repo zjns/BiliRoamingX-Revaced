@@ -1,7 +1,7 @@
 [versions]
 # integrations
 agp = "8.6.1"
-hiddenapibypass = "4.3"
+hiddenapibypass = "6.0"
 truetypeparser = "2.1.4"
 androidx-documentfile = "1.0.1"
 androidx-annotation = "1.8.2"
